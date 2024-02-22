@@ -41,8 +41,10 @@ Reward=
 ![output](./Graph.png)
 
 ## PYTHON REPRESENTATION:
+~~~
 Register Number:212221240034
 Name: Nivetha M
+
 P = {
     0:{
         0: [(0,1,1,True)],
@@ -57,7 +59,7 @@ P = {
         1: [(1,1,1,False)]
     }
 }
-
+~~~
 ## OUTPUT:
 
 ![output](./output.png)

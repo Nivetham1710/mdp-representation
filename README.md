@@ -35,7 +35,6 @@ The reward function provides immediate feedback to the agent based on the action
 ## Graphical Representation
 ![image](https://github.com/Nivetham1710/mdp-representation/assets/94155183/440fd998-88ce-4ef8-9d55-64baef814ae3)
 
-
 ## PYTHON REPRESENTATION:
 ~~~
 Developed By: NIVETHA M
@@ -68,8 +67,7 @@ P
 ~~~
 
 ## OUTPUT:
-![image](https://github.com/Nivetham1710/mdp-representation/assets/94155183/df807671-466b-4f9c-84b3-99cac08b354d)
-
+![image](https://github.com/Nivetham1710/mdp-representation/assets/94155183/3dd1fd66-e1f0-41ec-8def-c1c026f339ee)
 
 ## RESULT:
 Thus, the MDP is used to create a AI to play Tick-Tack-Toe game has successfullu created.
